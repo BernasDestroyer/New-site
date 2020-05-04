@@ -1,0 +1,75 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto;
+}
+
+h3{
+  margin-bottom: 0
+}
+
+p {
+  font-size: 2.5rem;
+}
+
+td{
+  width: 30%;
+  height: 30%;
+  }
+
+.top{
+  background-color: #cff1ef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.midle{
+background-color: #fffdf9;
+
+}
+
+.bottom{
+  background-color: #ecfbfc;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-pic {
+  border-radius:15%;
+  width: 15% ;
+  height: 15%;
+}
+
+.operating{
+  width: 50%;
+  margin: 0 auto 0 auto;
+
+}
+
+.programming{
+  width: 50%;
+  margin: 0 auto 0 auto
+}
+
+.network{
+  width: 50%;
+  margin: 0 auto 0 auto
+}
